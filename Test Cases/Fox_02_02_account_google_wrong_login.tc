@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>при вводе пустого знаения почты 
+и клика &quot;Далее&quot; проверить на появление соответствующего текстового сообщения и красной обводки</description>
+   <name>Fox_02_02_account_google_wrong_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9568c88c-3576-4fc3-afdf-b35f62b8118a</testCaseGuid>
+</TestCaseEntity>
