@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>при вводе пустого знаения почты 
-и клика &quot;Далее&quot; проверить на появление соответствующего текстового сообщения и красной обводки</description>
-   <name>Fox_01_01_account_google_empty_mail_db</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>7cadda55-cdf0-4db7-9813-e2af8cb67989</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>при вводе пустого знаения почты 
-и клика &quot;Далее&quot; проверить на появление соответствующего текстового сообщения и красной обводки</description>
-   <name>Chrom_02_01_account_google_empty_login</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>a2ac4d3b-3e9b-419d-a076-a696731753a3</testCaseGuid>
-</TestCaseEntity>
