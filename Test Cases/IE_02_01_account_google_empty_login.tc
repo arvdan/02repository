@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>при вводе пустого знаения почты 
+и клика &quot;Далее&quot; проверить на появление соответствующего текстового сообщения и красной обводки</description>
+   <name>IE_02_01_account_google_empty_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9c0ca68-48ab-4f5a-abca-dbacedeec70f</testCaseGuid>
+</TestCaseEntity>
